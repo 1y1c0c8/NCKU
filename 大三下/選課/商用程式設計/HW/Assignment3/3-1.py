@@ -1,14 +1,24 @@
-num1 = int(input("Enter the first number:\n"))
-num2 = int(input("Enter the second number:\n"))
-operator = input("Choose an operator(add/sub/mul/div) and enter the name:\n")
+do=True
+while do:
+    val1=int(input("Enter first number: "))
+    val2=int(input("Enter second number: "))
 
-if(operator == "add"):
-    print(num1 + num2)
-elif(operator == "sub"):
-    print(num1 - num2)
-elif(operator == "mul"):
-    print(num1 * num2)
-elif(operator == "div"):
-    print(num1 / num2)
-else:
-    input("You have enter some fault value...")
+    keep_checking=True
+    while keep_checking:
+        opr=input("Enter add/minus/mul/div to calculate the two number above")
+
+        if opr=="add":
+            print(val1+val2)
+        elif opr=="minus":
+            print(val1-val2)
+        elif opr=="mul":
+            print(val1*val2)
+        elif opr=="div":
+            print(round(val1/val2, 2))
+        keep_checking=False
+    do=input("Do you want to try again?(True/False)")
+    do=do.lower()
+    if do=="true":
+        do=True
+    else:
+        do=False
