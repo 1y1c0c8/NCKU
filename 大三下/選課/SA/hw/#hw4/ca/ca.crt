@@ -1,0 +1,114 @@
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number:
+            2d:33:04:22:32:9d:16:32:0c:29:c6:fb:c9:26:08:74
+        Signature Algorithm: sha256WithRSAEncryption
+        Issuer: CN=saroot
+        Validity
+            Not Before: Jun 22 07:04:23 2023 GMT
+            Not After : Sep 24 07:04:23 2025 GMT
+        Subject: C=TW, ST=TW, L=TAINAN, O=NCKU, CN=h0ff
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                RSA Public-Key: (2048 bit)
+                Modulus:
+                    00:e1:0f:a0:12:ba:bb:0b:38:b5:b7:49:a3:10:91:
+                    96:5f:33:93:d8:48:b2:4c:f3:5d:84:b6:3f:d9:fd:
+                    13:08:6c:66:26:6d:22:4d:be:1f:ac:64:73:04:e5:
+                    51:c5:9f:70:94:e0:d1:8c:d4:a6:85:0f:b3:17:1a:
+                    1b:f0:c0:bc:92:5d:f8:fd:47:a6:e2:6c:40:dd:0a:
+                    02:d6:ff:a8:17:92:9b:63:5b:6f:9d:25:3f:19:90:
+                    b5:61:85:c1:83:c1:08:37:28:b2:7a:fa:54:f1:3c:
+                    46:89:c9:9e:f6:1e:39:d0:02:c8:51:f8:dc:0f:03:
+                    95:d3:7d:3a:e5:f9:1d:04:b4:19:a3:5e:fd:54:19:
+                    3b:a6:04:5a:44:e7:7e:9a:d6:aa:32:b1:28:6b:3d:
+                    70:c8:73:b8:55:4a:22:10:ac:84:60:b7:bd:48:f9:
+                    85:06:4b:a9:e4:63:90:5e:e9:ed:ea:74:86:75:24:
+                    2a:4c:3d:2a:9e:63:93:bc:0c:72:a5:5a:4b:a0:df:
+                    22:52:4e:32:d2:3f:39:82:82:99:a1:7b:61:5a:99:
+                    86:16:c7:8b:85:4a:40:50:1a:a2:8b:b1:f9:ab:69:
+                    7d:99:6b:d8:b4:96:bf:f4:62:7a:2c:e8:3f:94:5f:
+                    75:05:40:69:b8:7e:00:12:8b:73:be:81:e9:f0:fc:
+                    74:01
+                Exponent: 65537 (0x10001)
+        X509v3 extensions:
+            X509v3 CRL Distribution Points: 
+
+                Full Name:
+                  URI:http://ca.sa/crl
+
+            Authority Information Access: 
+                CA Issuers - URI:http://ca.sa/ca
+
+            X509v3 Basic Constraints: 
+                CA:TRUE
+            X509v3 Subject Key Identifier: 
+                04:46:18:E9:72:7F:FB:6C:13:AC:2F:C9:E6:78:2F:D6:2A:95:64:62
+            X509v3 Authority Key Identifier: 
+                keyid:8A:69:2A:24:A2:32:00:96:35:B4:15:79:67:24:66:B2:50:D6:EA:09
+                DirName:/CN=saroot
+                serial:30:7D:C5:26:23:43:C2:B1:FE:3F:D6:5F:1B:CE:EA:9F:1E:CA:BB:E0
+
+            X509v3 Key Usage: 
+                Certificate Sign, CRL Sign
+    Signature Algorithm: sha256WithRSAEncryption
+         38:1e:8a:8a:bc:3b:f6:08:31:ec:43:d7:ab:f1:e3:f9:b5:dc:
+         71:02:52:aa:42:78:ff:10:fd:d8:12:ea:92:a7:2c:f9:81:f5:
+         93:7a:f6:0c:d4:aa:bf:55:8c:8c:25:02:36:94:06:4a:cb:27:
+         01:3e:f9:00:3e:d2:c0:d7:65:e9:5e:1b:c1:9c:c2:83:f2:61:
+         f3:68:8d:fa:e8:1f:dc:21:3e:b9:ee:68:71:f9:20:1c:83:37:
+         8d:91:2a:1f:e6:86:d2:41:f5:da:73:4b:d5:6c:2b:b6:13:13:
+         e5:41:aa:c6:00:9f:db:76:60:7f:08:e9:a0:e6:bb:50:20:c0:
+         3f:a5:8f:0e:81:a1:7b:ef:6e:19:27:02:43:3c:3b:db:85:f3:
+         bb:3a:e6:7b:13:d7:46:9c:9a:f9:f2:9a:70:7d:52:43:c2:cc:
+         36:bf:19:8e:04:03:16:a4:13:c2:0b:ca:9a:1d:0c:c2:3d:39:
+         2b:03:1c:c6:2b:84:25:9b:87:67:df:04:30:b4:66:08:40:4f:
+         d3:f9:c2:ab:55:2d:59:6c:db:2f:dc:eb:ca:e6:9e:a3:0d:3f:
+         ba:31:02:04:6d:bd:d5:05:b0:75:87:9f:ae:0a:ef:d4:7e:de:
+         6e:8f:d3:fc:32:e6:c3:30:03:56:15:bc:ca:5d:a5:ef:95:20:
+         7e:29:9e:b9
+-----BEGIN CERTIFICATE-----
+MIIDwDCCAqigAwIBAgIQLTMEIjKdFjIMKcb7ySYIdDANBgkqhkiG9w0BAQsFADAR
+MQ8wDQYDVQQDDAZzYXJvb3QwHhcNMjMwNjIyMDcwNDIzWhcNMjUwOTI0MDcwNDIz
+WjBJMQswCQYDVQQGEwJUVzELMAkGA1UECAwCVFcxDzANBgNVBAcMBlRBSU5BTjEN
+MAsGA1UECgwETkNLVTENMAsGA1UEAwwEaDBmZjCCASIwDQYJKoZIhvcNAQEBBQAD
+ggEPADCCAQoCggEBAOEPoBK6uws4tbdJoxCRll8zk9hIskzzXYS2P9n9EwhsZiZt
+Ik2+H6xkcwTlUcWfcJTg0YzUpoUPsxcaG/DAvJJd+P1HpuJsQN0KAtb/qBeSm2Nb
+b50lPxmQtWGFwYPBCDcosnr6VPE8RonJnvYeOdACyFH43A8DldN9OuX5HQS0GaNe
+/VQZO6YEWkTnfprWqjKxKGs9cMhzuFVKIhCshGC3vUj5hQZLqeRjkF7p7ep0hnUk
+Kkw9Kp5jk7wMcqVaS6DfIlJOMtI/OYKCmaF7YVqZhhbHi4VKQFAaooux+atpfZlr
+2LSWv/RieizoP5RfdQVAabh+ABKLc76B6fD8dAECAwEAAaOB2zCB2DAhBgNVHR8E
+GjAYMBagFKAShhBodHRwOi8vY2Euc2EvY3JsMCsGCCsGAQUFBwEBBB8wHTAbBggr
+BgEFBQcwAoYPaHR0cDovL2NhLnNhL2NhMAwGA1UdEwQFMAMBAf8wHQYDVR0OBBYE
+FARGGOlyf/tsE6wvyeZ4L9YqlWRiMEwGA1UdIwRFMEOAFIppKiSiMgCWNbQVeWck
+ZrJQ1uoJoRWkEzARMQ8wDQYDVQQDDAZzYXJvb3SCFDB9xSYjQ8Kx/j/WXxvO6p8e
+yrvgMAsGA1UdDwQEAwIBBjANBgkqhkiG9w0BAQsFAAOCAQEAOB6Kirw79ggx7EPX
+q/Hj+bXccQJSqkJ4/xD92BLqkqcs+YH1k3r2DNSqv1WMjCUCNpQGSssnAT75AD7S
+wNdl6V4bwZzCg/Jh82iN+ugf3CE+ue5ocfkgHIM3jZEqH+aG0kH12nNL1WwrthMT
+5UGqxgCf23ZgfwjpoOa7UCDAP6WPDoGhe+9uGScCQzw724XzuzrmexPXRpya+fKa
+cH1SQ8LMNr8ZjgQDFqQTwgvKmh0Mwj05KwMcxiuEJZuHZ98EMLRmCEBP0/nCq1Ut
+WWzbL9zryuaeow0/ujECBG291QWwdYefrgrv1H7ebo/T/DLmwzADVhW8yl2l75Ug
+fimeuQ==
+-----END CERTIFICATE-----
+
+-----BEGIN CERTIFICATE-----
+MIIDPDCCAiSgAwIBAgIUMH3FJiNDwrH+P9ZfG87qnx7Ku+AwDQYJKoZIhvcNAQEL
+BQAwETEPMA0GA1UEAwwGc2Fyb290MB4XDTIzMDUxNTE0MzcwNVoXDTMzMDUxMjE0
+MzcwNVowETEPMA0GA1UEAwwGc2Fyb290MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8A
+MIIBCgKCAQEAy7FDB1mzxK7kVOnFdIlZEZ3rnepTnR1vtB5RRjfBl2qRqpW0FMVk
+sWjWK7u645DPEA2bnAzgH0rS57nThGMiVD6e798T4IEjflY1XSZABujMhnCJlq2C
+l1S08c0te/yvh1Dm2Kw6kS1BTrAfeqX7MILLklPu0pCGI4xg0p4J/mHdT49bhcm/
+XgFDhXE/Tw29M9WlPjJomXaX6I5hL/LL8evzpxmVjCH6xulmuaumb8D3uER/5Fs1
+HxiTD6n3K9bIhaKIOi6cx17NRAZAeBL+5IAhwKUFKut5oHy1HsQEjxxi63szx6OE
+gjpQWIlbJxQtj3Z8iwf7ZD0NY8QvfEyEuQIDAQABo4GLMIGIMAwGA1UdEwQFMAMB
+Af8wHQYDVR0OBBYEFIppKiSiMgCWNbQVeWckZrJQ1uoJMEwGA1UdIwRFMEOAFIpp
+KiSiMgCWNbQVeWckZrJQ1uoJoRWkEzARMQ8wDQYDVQQDDAZzYXJvb3SCFDB9xSYj
+Q8Kx/j/WXxvO6p8eyrvgMAsGA1UdDwQEAwIBBjANBgkqhkiG9w0BAQsFAAOCAQEA
+IIUy4tI1fMpiTP3F6J47n0KYlR2zrQPha1zwLxFOr8eoNe9zxedrhl4WV3Igpj2c
+z9DzHmbr2kiTa8Do1dNdanw4FW0JO3SIab9opAbEvzCwQlYePxBuomnZraJumSzS
+jJuDPiIXa5F+B4D8w3CllCJsOC5hiudirMXSNf9DbbvPtppkImbBh9M1GM9UrkLX
+nQs9gMPUrCrtJRKuj6rnHwdvKYA09JY4/6w/ekMRPXwKaaAk7+ZRG7ReF3aBQI5W
+lCDgP6VmlnlHL3P6IbfHUmnrKCVVVXk4fQSXw7LdMOLoE3pnPdSlZngylhFCYvD9
+9tCHSqD9ct51nnzCcpOupQ==
+-----END CERTIFICATE-----
